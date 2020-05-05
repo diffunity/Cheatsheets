@@ -1,5 +1,5 @@
 # Cheatsheets
-Cheatsheets for various programming tasks
+Cheatsheets for various programming tasks \
 **NOTE that the following codes provided have been written for the purpose of quick reference guide only (no performance measures)
 
 * Cheatsheets for Data Science 
